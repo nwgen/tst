@@ -3,6 +3,8 @@ azure-nodejs-sample
 
 Sample project using node.js and Express.js framework running on Windows Azure. Uses git deployment, of course.
 
+You can check it out at http://tomasz-nodejs-demo.azurewebsites.net/
+
 Features
 ========
 
