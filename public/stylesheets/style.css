@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00B7FF;
+}
+#menu ul {
+  list-style-type: none;
+}
+#menu ul li {
+  display: inline;
+  margin-right: 12px;
+  font: 24px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
